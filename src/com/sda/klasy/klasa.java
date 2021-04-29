@@ -1,11 +1,11 @@
 package com.sda.klasy;
 
 public class klasa {
-    /*public class Main {
+    public class Main {
         int a = 1;
         int b = 2;
 
-        public static void main(String[] args) {
+        public void main(String[] args) {
 
             metodaJedem();
             metodaDwa(10);
@@ -13,18 +13,18 @@ public class klasa {
         }
 
 
-        public static void metodaJedem() {
+        public void metodaJedem() {
             System.out.println("Hello, World!");
 
         }
 
-        public static void metodaDwa(int a) {
+        public void metodaDwa(int a) {
             System.out.println("Podano " + a);
         }
 
-        public static int metodaPomnoz(int a) {
+        public int metodaPomnoz(int a) {
             return a * 2;
         }
-    }*/
+    }
 }
 

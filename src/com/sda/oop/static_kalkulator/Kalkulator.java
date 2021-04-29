@@ -32,36 +32,36 @@ public class Kalkulator {
         return (a % b);
     }
 
-    private static double oblicz() {
-        double wynik;
-        switch (znak) {
-            case "+": {
-                dodawanie(a, b);
-                break;
-            }
-            case "-": {
-                odejmowanie(a, b);
-                break;
-            }
-            case "*": {
-                mnozenie(a, b);
-                break;
-            }
-            case "/": {
-                dzielnie(a, b);
-                break;
-            }
-            case "%": {
-                modulo(a, b);
-                break;
-            }
-            default: {
-                System.out.println("ERROR");
-                break;
-            }
-
-
-        }
-        return wynik;
-    }
+   // private static double oblicz() {
+   //     double wynik;
+   //     switch (znak) {
+   //         case "+": {
+   //             dodawanie(a, b);
+   //             break;
+   //         }
+   //         case "-": {
+   //             odejmowanie(a, b);
+   //             break;
+   //         }
+   //         case "*": {
+   //             mnozenie(a, b);
+   //             break;
+   //         }
+   //         case "/": {
+   //             dzielnie(a, b);
+   //             break;
+   //         }
+   //         case "%": {
+   //             modulo(a, b);
+   //             break;
+   //         }
+   //         default: {
+   //             System.out.println("ERROR");
+   //             break;
+   //         }
+//
+//
+   //     }
+   //     return wynik;
+   // }
 }
