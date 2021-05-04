@@ -1,5 +1,5 @@
 package com.sda.zmienne;
 
-public class Przyklad {
+//public class Przyklad {
     
-}
+
