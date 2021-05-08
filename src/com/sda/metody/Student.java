@@ -1,4 +1,4 @@
-package com.sda.oop;
+package com.sda.metody;
 
 public class Student {
 

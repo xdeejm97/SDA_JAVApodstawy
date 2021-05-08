@@ -1,6 +1,4 @@
-package com.sda.oop.pies;
-
-import com.sda.oop.pies.Klasa_pies;
+package com.sda.metody.pies;
 
 public class Main_pies {
     public static void main(String[] args) {

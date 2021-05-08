@@ -1,6 +1,4 @@
-package com.sda.oop.pokoj;
-
-import com.sda.oop.pies.Klasa_pies;
+package com.sda.metody.pokoj;
 
 public class Main_pokoj {
     public static void main(String[] args) {

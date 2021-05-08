@@ -5,7 +5,7 @@ public class Zad3 {
         int[] myArray = {1, 2, 3, 4, 5};
         int[] tab2 = new int[myArray.length];
         for (int element : myArray) {
-            System.out.print(element + "");
+            System.out.print(element + " ");
         }
         System.out.println();
         for (int i = 0; i < myArray.length; i++) {

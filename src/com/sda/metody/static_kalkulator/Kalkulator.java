@@ -1,4 +1,4 @@
-package com.sda.oop.static_kalkulator;
+package com.sda.metody.static_kalkulator;
 
 public class Kalkulator {
     // 1. Stwórz kalkulator korzystając z metod statycznych:

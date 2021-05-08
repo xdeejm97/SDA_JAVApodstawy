@@ -1,5 +1,5 @@
-package com.sda.oop;
-import com.sda.oop.Student;
+package com.sda.metody;
+
 public class Main {
     public static void main(String[] args) {
         Student student = new Student("Jakub", 27);

@@ -8,7 +8,7 @@ public class Zadanie1_temp {
         double c;
         double f;
 
-        System.out.println("Podaj liczbe");
+        System.out.println("Podaj liczbe w Celsiusach: ");
         c = scan.nextDouble();
         System.out.println("Wartość w F:");
         f = 32 + 1.8 *c;

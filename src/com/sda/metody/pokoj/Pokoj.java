@@ -1,4 +1,4 @@
-package com.sda.oop.pokoj;
+package com.sda.metody.pokoj;
 
 public class Pokoj {
    // Stwórz klasę Pokoj.

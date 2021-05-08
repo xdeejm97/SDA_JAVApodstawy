@@ -1,4 +1,4 @@
-package com.sda.oop.pies;
+package com.sda.metody.pies;
 
 public class Klasa_pies {
    /* 1) Stwórz klasę Pies.
