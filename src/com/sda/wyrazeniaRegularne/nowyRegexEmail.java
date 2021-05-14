@@ -13,6 +13,7 @@ public class nowyRegexEmail {
         //z gwiazdka: zeby nazwa nie mogla sie konczyc kropka. tzn moze byc kropka w nazwie, ale nie na koncu
         //np asdf@ab.cd.com, ale nie asdf@ab..com
         //tzn zeby nie bylo np adres asdf@gmail..com
+<<<<<<< HEAD
         String emailRegex = "[a-zA-Z0-9.-_%]+@[a-zA-Z0-9]*\\.[a-z]+";
 
         String email1 = "damian8156@op.pl";
@@ -29,6 +30,13 @@ public class nowyRegexEmail {
         } else {
             System.out.println("Bledny email");
         }
+=======
+        String emailRegex = "[a-z0-9]";
+
+        Pattern emailPattern = Pattern.compile(emailRegex);
+
+        
+>>>>>>> ba31a3018662f469f01afa4b40ad014b03e0eb1f
 
 
 
